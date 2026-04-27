@@ -1,4 +1,6 @@
 1) Install Ollama first. If not, you may be prompted to or the browser will not work. 
+(link https://ollama.com/download/windows)
+
 
 [Versions 2.6 and 2.7 will allow you to EASILY download Ollama AI models with a copy pasted link, from here, where you can browse all current AI models: ollama.com/search ]
 
